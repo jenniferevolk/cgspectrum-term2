@@ -44,6 +44,7 @@
 # Precompiled Assets
 Week2/SourceArt/**/*.png
 Week2/SourceArt/**/*.tga
+*.fbx
 
 # Binary Files
 Week2/Binaries/*
