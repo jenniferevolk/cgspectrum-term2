@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-doors.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\doorsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\DoorInteractorComponent.gen.cpp.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\doors.init.gen.cpp.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\doorsCharacter.gen.cpp.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\doorsGameMode.gen.cpp.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\InteractableDoor.gen.cpp.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\doors.cpp.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\doorsCharacter.cpp.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\doorsGameMode.cpp.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\DoorInteractorComponent.cpp.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\InteractableDoor.cpp.obj"
+"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\Default.rc2.res"
+/OUT:"C:\Users\jenni\Documents\Unreal Projects\doors\Intermediate\Build\Win64\UnrealEditor\Development\doors\UnrealEditor-doors.lib"
