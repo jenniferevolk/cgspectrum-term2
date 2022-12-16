@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cgspectrum\\term2\\projects\\cgspectrum-term2\\week4\\source\\doors\\doors.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\cgspectrum\\term2\\projects\\cgspectrum-term2\\week4\\intermediate\\build\\win64\\doorseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\cgspectrum\\term2\\projects\\cgspectrum-term2\\week4\\intermediate\\build\\win64\\unrealeditor\\development\\doors\\definitions.doors.h",
+            "d:\\cgspectrum\\term2\\projects\\cgspectrum-term2\\week4\\source\\doors\\doors.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

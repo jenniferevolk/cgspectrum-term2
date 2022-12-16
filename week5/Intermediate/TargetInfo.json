@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "doors",
+			"Path": "D:\\cgspectrum\\term2\\projects\\cgspectrum-term2\\week5\\Source\\doors.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "doorsEditor",
+			"Path": "D:\\cgspectrum\\term2\\projects\\cgspectrum-term2\\week5\\Source\\doorsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

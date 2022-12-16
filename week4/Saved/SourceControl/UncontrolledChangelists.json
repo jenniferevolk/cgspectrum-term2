@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/cgspectrum/term2/projects/cgspectrum-term2/week4/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/cgspectrum/term2/projects/cgspectrum-term2/week4/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
