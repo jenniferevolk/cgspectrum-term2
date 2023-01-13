@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/cgspectrum/term2/projects/cgspectrum-term2/week6/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/cgspectrum/term2/projects/cgspectrum-term2/week6/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/cgspectrum/term2/projects/cgspectrum-term2/week7/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/cgspectrum/term2/projects/cgspectrum-term2/week7/Content/Actors/Player/CustomPlayerCharacter.uasset",
+				"D:/cgspectrum/term2/projects/cgspectrum-term2/week7/Content/Actors/Player/CustomPlayerController.uasset",
+				"D:/cgspectrum/term2/projects/cgspectrum-term2/week7/Content/Maps/defaultMap.umap",
+				"D:/cgspectrum/term2/projects/cgspectrum-term2/week7/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
