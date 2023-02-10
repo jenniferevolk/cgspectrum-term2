@@ -28,7 +28,8 @@ protected:
 	//TArray<FString> ListOfObjectives;
 
 	
-
+	void RandomlyShakeThingsUp();
+	FTimerHandle TimerHandle;
 
 public:	
 	// Called every frame
